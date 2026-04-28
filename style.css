@@ -1,0 +1,12 @@
+.img
+{
+    width:100px ;
+    height: 100px;
+    margin: 15px auto;
+    border-radius: 15px;
+    padding: 35px;
+    background-color: darkkhaki;
+}
+body > * {
+    text-align: center;
+}
